@@ -9,7 +9,7 @@ body {
     max-width: 1500px;
     margin: 0 auto;
     padding: 1rem;
-    background-color: rgb(204, 203, 203);
+    background-color: rgba(251, 199, 199, 0.448);
 }
 
 nav {
@@ -26,7 +26,7 @@ nav img {
 }
 div {
     padding: 20px;
-    background-color: rgb(181, 176, 176);
+    background-color: rgb(213, 210, 210);
 }
 nav ul {
     display: flex;
