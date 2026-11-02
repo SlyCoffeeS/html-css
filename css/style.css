@@ -97,11 +97,11 @@ header {
 .products-intro h1 {
     font-size: 2.5rem;
     margin-bottom: 0.5rem;
-    color: #130909;
+    color: #000000;
 }
 .products-intro p {
     font-size: 1.1rem;
-    color: #555;
+    color: #000000;
 }
 .products-intro {
     text-align: center;
