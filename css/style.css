@@ -2,6 +2,7 @@ html {
     font-size: 18px;
 }
 body {
+    font-family: Arial, sans-serif;
     line-height: 1.5;
     color: #000000;
     max-width: 1500px;
